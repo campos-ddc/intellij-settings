@@ -1,40 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '~/knapr [knapr]'" />
-    <option name="defaultScopeName" value="Directory '~/knapr [knapr]'" />
-    <option name="SEARCH_SCOPE" value="Directory '~/knapr [knapr]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.py" />
-    <recentFileMasks>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.y</mask>
-      <mask>*.sy</mask>
-      <mask>*.setupy</mask>
-      <mask>.setupy</mask>
-      <mask>setupy</mask>
-      <mask>etupy</mask>
-      <mask>s</mask>
-      <mask>set</mask>
-      <mask>setup</mask>
-      <mask>setup.</mask>
-      <mask>setup.p</mask>
-      <mask>setup.py</mask>
-      <mask>*.ts</mask>
-      <mask>*</mask>
-      <mask>*/</mask>
-      <mask>*/p</mask>
-      <mask>*/py</mask>
-      <mask>*.p</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.k</mask>
-      <mask>*.</mask>
-      <mask>*.html</mask>
-      <mask>*.py</mask>
-    </recentFileMasks>
   </component>
 </application>
